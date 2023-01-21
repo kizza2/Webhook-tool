@@ -14,8 +14,7 @@ def SlowPrint(_str):
         sys.stdout.write(letter);sys.stdout.flush();sleep(0.04)
 
 
-user = ("kizza")
-#user = sistema.getlogin()
+user = sistema.getlogin()
 
 
 def webhoopktoolasciiintro():
