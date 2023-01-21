@@ -3,7 +3,6 @@ import sys
 import requests
 import os as sistema
 
-from kizzawebhooktool import user
 from dhooks import Webhook
 from discord import Webhook
 from colorama import Fore, Back, Style
